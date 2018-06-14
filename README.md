@@ -16,6 +16,7 @@ Sistema para caixas de supermercado com emissão de notas
 
 * Após Cadastrar o novo produto o sistema vai exibir a lista de produtos disponiveis no estoque
 * Você também pode acessar escolhendo a opção R no menu de gerente
+* O armazenamento é feito através de um arquivo de texto
 
 ![capturar02](https://user-images.githubusercontent.com/40237367/41390566-948b9ca0-6f6c-11e8-8f26-6b41c8baca09.PNG)
 
