@@ -1,0 +1,21 @@
+
+ ISBN: 500 Produto: Carne Valor: 45.0
+ ----
+
+ ISBN: 1 Produto: Leite Valor: 14.0
+ ----
+
+Total das compras: R$59.0  Funcionario:  2 Caixa: 
+2
+ -----------------------------
+
+ ISBN: 1 Produto: Leite Valor: 14.0
+ ISBN: 1 Produto: Leite Valor: 14.0
+ 
+ Total das compras: R$28.0  Funcionario:  1 Caixa: 1
+ -----------------------------
+
+ ISBN: 2 Produto: Sabao Valor: 5.0
+ 
+ Total das compras: R$5.0  Funcionario:  1 Caixa: 1
+ -----------------------------
